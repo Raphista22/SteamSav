@@ -1,0 +1,39 @@
+"285190"
+{
+	"news.log"
+	{
+		"root"		"0"
+		"size"		"2384"
+		"localtime"		"1540684466"
+		"time"		"1540684465"
+		"remotetime"		"1540684465"
+		"sha"		"f114ec7e983f0f6da3b7ef70e8eee5f7ee5120ce"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"shrink.log"
+	{
+		"root"		"0"
+		"size"		"144"
+		"localtime"		"1540684467"
+		"time"		"1540684466"
+		"remotetime"		"1540684466"
+		"sha"		"e0fc7e4c69ee49a91320a4714ef373866741d8eb"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"flipchart.log"
+	{
+		"root"		"0"
+		"size"		"384"
+		"localtime"		"1540684467"
+		"time"		"1540684466"
+		"remotetime"		"1540684466"
+		"sha"		"7b5620587611761530cf39d27ec2f6e7604c50c6"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

@@ -1,0 +1,27 @@
+"760"
+{
+	"202990/screenshots/2014-02-23_00003.jpg"
+	{
+		"root"		"0"
+		"size"		"143866"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"0"
+		"sha"		"4c536dcecf724b4097fbb9bb089792821eb1a5b8"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"0"
+	}
+	"202990/screenshots/thumbnails/2014-02-23_00003.jpg"
+	{
+		"root"		"0"
+		"size"		"12793"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"0"
+		"sha"		"5140b371403841513e1843f00eba293b0065e3db"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"0"
+	}
+}

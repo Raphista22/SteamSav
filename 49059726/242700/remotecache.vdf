@@ -1,0 +1,27 @@
+"242700"
+{
+	"user/dcfgset"
+	{
+		"root"		"0"
+		"size"		"76"
+		"localtime"		"1473010933"
+		"time"		"1473010933"
+		"remotetime"		"1473010933"
+		"sha"		"f7b7ad7e11fa54cdd271cf6f4159133de01642c6"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"user/dcfpset"
+	{
+		"root"		"0"
+		"size"		"103968"
+		"localtime"		"1541175306"
+		"time"		"1541175303"
+		"remotetime"		"1541175303"
+		"sha"		"6dc5bd2324473f653f6a961bca9a151d8ec8a36d"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

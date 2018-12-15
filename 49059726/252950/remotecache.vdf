@@ -1,0 +1,27 @@
+"252950"
+{
+	"My Games/Rocket League/TAGame/SaveData/DBE_Production/76561198009325454_2.save"
+	{
+		"root"		"2"
+		"size"		"20152"
+		"localtime"		"1541080182"
+		"time"		"1541080180"
+		"remotetime"		"1541080180"
+		"sha"		"46f43df336796bb2735f5953bf41a280724c5698"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"My Games/Rocket League/TAGame/SaveData/DBE_Production/76561198009325454.save"
+	{
+		"root"		"2"
+		"size"		"20152"
+		"localtime"		"1541080188"
+		"time"		"1541080186"
+		"remotetime"		"1541080186"
+		"sha"		"dd0220ec3a0b7135430408882dd8df36eeb47d17"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}

@@ -1,0 +1,27 @@
+"251040"
+{
+	"SAVEDATA_B"
+	{
+		"root"		"0"
+		"size"		"17104"
+		"localtime"		"1544370109"
+		"time"		"1544370109"
+		"remotetime"		"1544370109"
+		"sha"		"93a671a3b3ea79edb044993db7215f386787380e"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"SAVEDATA1000"
+	{
+		"root"		"0"
+		"size"		"9438432"
+		"localtime"		"1544835296"
+		"time"		"1544835296"
+		"remotetime"		"1544835296"
+		"sha"		"87cbda4319f8c98c06fca9d5a92698d45ef6c1e3"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

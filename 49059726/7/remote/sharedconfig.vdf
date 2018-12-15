@@ -1,0 +1,127 @@
+"UserRoamingConfigStore"
+{
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"SSAVersion"		"3"
+				"PrivacyPolicyVersion"		"2"
+				"DesktopShortcutCheck"		"1"
+				"StartMenuShortcutCheck"		"1"
+				"AutoLaunchGameListCheck"		"0"
+				"Apps"
+				{
+					"240"
+					{
+						"LastPlayed"		"1349287577"
+						"cloudenabled"		"1"
+					}
+					"300"
+					{
+						"LastPlayed"		"1349382795"
+					}
+					"202990"
+					{
+						"cloudenabled"		"1"
+					}
+					"440"
+					{
+						"cloudenabled"		"1"
+					}
+					"202970"
+					{
+						"cloudenabled"		"1"
+					}
+					"242700"
+					{
+						"cloudenabled"		"1"
+					}
+				}
+				"SteamDefaultDialog"		"#app_games"
+				"SurveyDate"		"2018-02-18"
+				"SurveyDateVersion"		"-7082621019550447288"
+			}
+		}
+	}
+	"Web"
+	{
+		"WebFav0_URL"		"https://www.google.com/"
+		"WebFav0_Name"		"Google"
+		"WebFav1_URL"		"http://www.youtube.com/"
+		"WebFav1_Name"		"YouTube"
+		"WebFav2_URL"		"http://www.twitter.com/"
+		"WebFav2_Name"		"Twitter"
+		"WebFav3_URL"		"http://www.facebook.com/"
+		"WebFav3_Name"		"Facebook"
+		"WebFav4_URL"		"http://www.reddit.com/"
+		"WebFav4_Name"		"Reddit"
+		"WebRecent0_URL"		"http://store.steampowered.com/recommended/"
+		"WebRecent0_Name"		"Recomendados para xgamer500"
+		"WebFrequent0_URL"		"http://steamcommunity.com/id/rafarayos/"
+		"WebFrequent0_Name"		"Comunidad Steam :: El Sensei"
+		"WebFrequent0_Access"		"3"
+		"WebRecent1_URL"		"http://steamcommunity.com/id/rafarayos/"
+		"WebRecent1_Name"		"Comunidad Steam :: El Sensei"
+		"WebFrequent1_URL"		"http://store.steampowered.com/recommended/"
+		"WebFrequent1_Name"		"Recomendados para xgamer500"
+		"WebFrequent1_Access"		"1"
+	}
+	"TradeInfoHint"		"1"
+	"controller_config"
+	{
+		"312990"
+		{
+			"usetime"		"1511.92529296875"
+		}
+		"202990"
+		{
+			"usetime"		"1825.10693359375"
+		}
+		"476620"
+		{
+			"usetime"		"425.94049072265625"
+		}
+		"413090"
+		{
+			"usetime"		"0"
+		}
+		"443510"
+		{
+			"usetime"		"0"
+		}
+		"242700"
+		{
+			"usetime"		"2537.87939453125"
+		}
+		"thecrewexe"
+		{
+			"usetime"		"101.38836669921875"
+		}
+		"251040"
+		{
+			"usetime"		"71915.7265625"
+		}
+		"480"
+		{
+			"usetime"		"13576.7734375"
+		}
+		"252950"
+		{
+			"usetime"		"1026.2039794921875"
+		}
+		"731490"
+		{
+			"usetime"		"1800.1728515625"
+		}
+		"43110"
+		{
+			"usetime"		"411.0338134765625"
+		}
+		"378540"
+		{
+			"usetime"		"1802.2080078125"
+		}
+	}
+}
